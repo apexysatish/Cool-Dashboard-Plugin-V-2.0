@@ -1,43 +1,45 @@
 {
-  "name" : "Cool Dashboard Plugin V 2.0",
-  "version" : "2.0.0",
-  "description": "This is a Attractive Region Dashboard Plug-in v 2.0 for Oracle APEX that let's you easily create some nice,responsive Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
-  "keywords" : [
+    "name": "Cool Dashboard Plugin V 2.0",
+    "version": "2.0.0",
+    "description": "This is a Attractive Region Dashboard Plug-in v 2.0 for Oracle APEX that let's you easily create some nice,responsive Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
+    "keywords": [
         "Dashboard",
         "Card Type Dashboard",
         "oracle",
-		"apex",
-		"Cool Dashboard Plugins",
-		"V 2.0"
+        "apex",
+        "Cool Dashboard Plugins",
+        "V 2.0"
     ],
-  "homepage" : "https://github.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0",
-  "license" : "MIT",
-  "author" : {
-    "name" : "Satish Yadav",
-    "email" : "14satishyadav@gmail.com",
-    "url" : "https://javainhand.blogspot.com/"
-    "twitter" : "apexYsatish"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0.git"
-  },
-  "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
-    "apex" : {
-      "versions" : [
+    "homepage": "https://github.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0",
+    "license": "MIT",
+    "author": {
+        "name": "Satish Yadav",
+        "email": "14satishyadav@gmail.com",
+        "url": "https://javainhand.blogspot.com/",
+        "twitter": "apexYsatish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0.git"
+    },
+    "oracle": {
+        "versions": [
+            "11.2.0.1",
+            "12.1.0.1"
+        ],
+        "apex": {
+            "versions": [
                 "5.1.4",
-                 "18.1.0",
-				 "19.1.0",
-				 "19.2.0"
-                
+                "18.1.0",
+                "19.1.0",
+                "19.2.0"
             ],
-      "plugin" : {
-        "internalName" : "COOL.DASHBOARD_V_2.0",
-        "type" : "Region",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=140847:5",
-        "previewImage" : "https://raw.githubusercontent.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0/master/screenshot.gif"
-      }
+            "plugin": {
+                "internalName": "COOL.DASHBOARD_V_2.0",
+                "type": "Region",
+                "demo": "https://apex.oracle.com/pls/apex/f?p=140847:5",
+                "previewImage": "https://raw.githubusercontent.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0/master/screenshot.gif"
+            }
+        }
     }
-  }
 }
