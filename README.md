@@ -1,4 +1,4 @@
-# Cool Dashboard Plugin V 2.0
+# Cool Dashboard Plugin v2.0
 
 ![Screenshot](https://raw.githubusercontent.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0/master/screenshot.gif)
 
