@@ -1,6 +1,6 @@
 {
-  "name" : "Cool Dashboard Plugin V 2.0",
-  "version" : "2.0",
+  "name" : "Bootstrap-Dashboard-Plugin",
+  "version" : "1.0.0",
   "description" : "This is a Attractive Region Dashboard Plug-in v 2.0 for Oracle APEX that let's you easily create some nice,responsive Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
 "keywords": ["Dashboard","Card Type Dashboard","oracle","apex","Cool Dashboard Plugins","V2.0"],
   "homepage" : "https://github.com/sattuvirus/Cool-Dashboard-Plugin-V-2.0",
