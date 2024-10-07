@@ -45,7 +45,14 @@ Select 4 as sort_order,
 'green' as class2,
 'https://www.google.com/' as link
 from dual
-```	
+```
+<b>Note:-In the Latest Verison Please use below CSS code in your page.</b>
+```
+.apex-row {
+     display: block;
+     flex-wrap: wrap; 
+}
+```		
 For working Demo just click on:
 <a href ="https://apex.oracle.com/pls/apex/f?p=140847:5"> <h4>Click Here For Demo</h4></a>
 
